@@ -1,0 +1,17 @@
+*cosas aprendidas hasta el momento *
+
+hacer un boton fijo 
+
+display: grid para .categories hace que las tarjetas se 
+acomoden automaticamente de forma igual a las de la parte superios  
+
+ease es una curva de aceleracion que inicia lento , acelera y termina despacio parametros para usarlo
+
+transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+linear → velocidad constante
+ease-in → comienza lento, termina rápido
+ease-out → comienza rápido, termina lento
+ease-in-out → comienza y termina lento
+
+
